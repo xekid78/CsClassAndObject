@@ -1,0 +1,11 @@
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Clsandobj\Clsandobj\bin\Debug\netcoreapp2.0\Clsandobj.deps.json
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Clsandobj\Clsandobj\bin\Debug\netcoreapp2.0\Clsandobj.runtimeconfig.json
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Clsandobj\Clsandobj\bin\Debug\netcoreapp2.0\Clsandobj.runtimeconfig.dev.json
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Clsandobj\Clsandobj\bin\Debug\netcoreapp2.0\Clsandobj.dll
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Clsandobj\Clsandobj\bin\Debug\netcoreapp2.0\Clsandobj.pdb
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Clsandobj\Clsandobj\obj\Debug\netcoreapp2.0\Clsandobj.csprojResolveAssemblyReference.cache
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Clsandobj\Clsandobj\obj\Debug\netcoreapp2.0\Clsandobj.csproj.CoreCompileInputs.cache
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Clsandobj\Clsandobj\obj\Debug\netcoreapp2.0\Clsandobj.AssemblyInfoInputs.cache
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Clsandobj\Clsandobj\obj\Debug\netcoreapp2.0\Clsandobj.AssemblyInfo.cs
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Clsandobj\Clsandobj\obj\Debug\netcoreapp2.0\Clsandobj.dll
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Clsandobj\Clsandobj\obj\Debug\netcoreapp2.0\Clsandobj.pdb
